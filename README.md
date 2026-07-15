@@ -44,23 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-theta-ebon-77.vercel.app/api?username=mdshahjadms0786-sys&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-theta-ebon-77.vercel.app/api/top-langs/?username=mdshahjadms0786-sys&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdshahjadms0786-sys&theme=tokyonight" alt="streak stats"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdshahjadms0786-sys&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
