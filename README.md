@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shahjad</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Cybersecurity Learner</h3>
+<h3 align="center">Full Stack Developer | DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%2B+Cybersecurity+Learner;Building+Real+World+Projects" alt="Typing SVG" />
