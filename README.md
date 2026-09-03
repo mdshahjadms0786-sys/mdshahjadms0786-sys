@@ -89,28 +89,113 @@
 - Web Security & Cybersecurity
 
 
+## 🚀 Featured Projects
 
-### 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+### 📈 HabitFlow — Habit Tracker SaaS
+
+> AI-powered habit tracking SaaS designed to help users build consistent habits through personalized coaching and subscription-based features.
+
+**Highlights**
+- 🧩 Architected a SaaS application with **50+ pages and 100+ reusable components**.
+- 🤖 Built an **AI coaching system** using Google Gemini with streaming responses through a secure Supabase Edge Function.
+- 💳 Implemented **Free / Pro / Elite subscription tiers** with Razorpay payment integration and server-side signature verification.
+- ⚙️ Implemented **CI/CD workflows with GitHub Actions** and deployed the application on Vercel.
+- 🔐 Applied secure authentication and backend communication using Supabase services.
+
+**Tech Stack:** React · Vite · Supabase · Gemini AI · Razorpay · GitHub Actions · Vercel
+
+[🔗 GitHub Repository](https://github.com/mdshahjadms0786-sys/habitflow) · [🌐 Live Demo](https://habit-tracker-phi-ruddy.vercel.app/)
+
+
+### 💬 ChatSphere — Real-Time Chat Application
+
+> WhatsApp-style real-time messaging platform with modern communication, authentication, and media features.
+
+**Highlights**
+- 💬 Built real-time **1:1 and group messaging** with Socket.IO.
+- 🔄 Implemented **typing indicators, online presence, and read/delivered receipts**.
+- 📦 Added offline catch-up delivery, block/unblock functionality, and media attachments.
+- 🔐 Implemented **JWT authentication, Google OAuth, and Twilio SMS OTP**.
+- 🛡️ Added bcrypt password hashing and rate limiting for improved application security.
+
+**Tech Stack:** React · Node.js · Socket.IO · MongoDB · Twilio
+
+[🔗 GitHub Repository](https://github.com/mdshahjadms0786-sys/ChatSphere) · [🌐 Live Demo](https://chat-sphere-woad.vercel.app/)
+
+
+### 🏠 Wanderlust — Airbnb Clone
+
+> Full-stack rental marketplace with listings, bookings, reviews, wishlists, payments, authentication, and administrative features.
+
+**Highlights**
+- 🏗️ Built a full-stack rental marketplace with **10+ REST API route modules**.
+- 📋 Implemented listings, bookings, reviews, wishlists, and an admin panel.
+- 💳 Integrated **Stripe Payment Intents** with dynamic pricing and payment-confirmation booking flow.
+- 🔐 Implemented authentication, **role-based access control**, Joi validation, Helmet, and rate limiting.
+- ☁️ Integrated Cloudinary for media management.
+
+**Tech Stack:** Node.js · Express.js · MongoDB · Stripe · Cloudinary
+
+[🔗 GitHub Repository](https://github.com/mdshahjadms0786-sys/airbnb-clone) · [🌐 Live Demo](https://airbnb-clone-z7hy.onrender.com)
 
 ---
 
----
+## 🧠 DSA & Problem Solving
+
+- 💡 Regularly practicing **Data Structures & Algorithms** using C++.
+- 🧩 Focused on improving **problem-solving, algorithmic thinking, and optimization**.
+- 🏆 Solving problems on **LeetCode** across different difficulty levels.
+- 📚 Strengthening core topics including **Arrays, Strings, Hashing, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Binary Search, Sorting, Greedy, and Dynamic Programming**.
+- 🎯 Preparing for **technical interviews and MNC-level software engineering roles** through consistent DSA practice.
+
+<p align="center">
+  <a href="https://leetcode.com/u/Md-Shahjad/">
+    <img src="https://img.shields.io/badge/LeetCode-Md--Shahjad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+## 📚 Computer Science Fundamentals
+
+- 🗄️ **DBMS & SQL** — Database concepts, SQL queries, normalization, indexing, transactions, and database design.
+- 🧱 **Object-Oriented Programming** — OOP principles, classes, objects, inheritance, polymorphism, abstraction, and encapsulation.
+- 💻 **Operating Systems** — Processes, threads, memory management, scheduling, synchronization, and core OS concepts.
+- 🌐 **Computer Networks** — Networking fundamentals, HTTP/HTTPS, TCP/IP, DNS, client-server architecture, and web communication.
+
+
+### 🏗️ Upcoming Learning
+
+- **System Design & Scalable Software Architecture**
+
+## 🏆 Certifications & Achievements
+
+### 📜 Certifications
+
+- **Google Cybersecurity Professional Certificate**
+- **Google Cloud Computing Foundations**
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- **JavaScript Essentials 1**
+- **Networking Basics**
+- **Cyber Threat Management**
+
+### 🎯 Achievements
+
+- 💻 Consistent **DSA & problem-solving practice** on LeetCode.
+- 🚀 Built and deployed multiple **full-stack applications** involving authentication, APIs, databases, real-time communication, payments, and AI integration.
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshahjadms0786-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahjadms0786-sys&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdshahjadms0786-sys&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdshahjadms0786-sys/mdshahjadms0786-sys/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -120,3 +205,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdshahjadms0786-sys&color=6366F1&style=flat" alt="profile views"/>
 </p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdshahjad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mdshahjadms0786-sys">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mdshahjadms0786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
