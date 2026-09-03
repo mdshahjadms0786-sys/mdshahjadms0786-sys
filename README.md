@@ -186,7 +186,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahjadms0786-sys&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mdshahjadms0786-sys&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -195,11 +195,6 @@
   <img src="https://raw.githubusercontent.com/mdshahjadms0786-sys/mdshahjadms0786-sys/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdshahjadms0786-sys&color=6366F1&style=flat" alt="profile views"/>
-</p>
 ---
 
 <p align="center">
