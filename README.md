@@ -66,7 +66,9 @@
 </p>
 
 ### 🔄 Real-Time
-- Socket.IO
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" />
+</p>
 
 ### 🗄️ Databases
 <p>
