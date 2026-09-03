@@ -186,12 +186,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshahjadms0786-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahjadms0786-sys&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdshahjadms0786-sys&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahjadms0786-sys&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -200,6 +195,11 @@
   <img src="https://raw.githubusercontent.com/mdshahjadms0786-sys/mdshahjadms0786-sys/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdshahjadms0786-sys&color=6366F1&style=flat" alt="profile views"/>
+</p>
 ---
 
 <p align="center">
