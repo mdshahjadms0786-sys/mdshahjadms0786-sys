@@ -1,30 +1,92 @@
-<h1 align="center">Hi 👋, I'm Md Shahjad</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+%2B+Cybersecurity+Learner;Building+Real+World+Projects" alt="Typing SVG" />
+# 👋 Hi, I'm Md Shahjad
+
+### Full Stack Developer | DSA & Problem Solving | Software Engineering
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Building+Real-World+Full+Stack+Applications;Solving+DSA+Problems+in+C%2B%2B;Designing+Backend+APIs+%26+Database+Systems;Learning+System+Design+%26+Cloud;Exploring+Web+Security+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
----
-
-### 💫 About Me:
-- 🚀 Building full stack web applications and strengthening problem-solving skills through hands-on projects
-- 🌐 Full stack web development projects involving frontend, backend, and database integration
-- 🏗️ System design basics, backend optimization, and scalable full stack architectures
-- 🛠️ Full Stack Web Development using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
-- ⚙️ Git, GitHub, Linux, REST APIs, and basic DevOps workflows
-- 🔐 Actively learning Cybersecurity — networking, web security, and CTF practice
-- 💡 I enjoy building complete applications from scratch — from UI to database and deployment
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:YOUR-EMAIL-HERE"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/mdshahjadms0786-sys">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdshahjad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdshahjadms0786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+</div>
+
 ---
+
+## 👨‍💻 About Me
+
+- 🚀 Full Stack Developer focused on building real-world, scalable web applications.
+- 💻 Strong interest in **DSA, problem solving, backend engineering, and software development**.
+- 🌐 Building applications across **Frontend, Backend, REST APIs, Databases, and Deployment**.
+- 🧠 Strengthening **Computer Science fundamentals** including DBMS, Operating Systems, Computer Networks, and OOP.
+- ⚙️ Exploring **System Design, Docker, Linux, Cloud, and DevOps fundamentals**.
+- 🔐 Exploring **Web Security and Cybersecurity** alongside software engineering.
+- 📈 Consistently improving through **DSA practice, projects, and hands-on engineering**.
+- 🎯 Currently focused on becoming a **strong Software Engineer ready for real-world and MNC-level engineering challenges**.
+  
+---
+
+## 🎯 Current Engineering Focus
+
+- 🧩 Strengthening **Data Structures & Algorithms** and problem-solving skills using C++.
+- 🌐 Building and improving **Full Stack Web Applications** with modern frontend and backend technologies.
+- ⚙️ Developing stronger **Backend Engineering** skills with REST APIs, authentication, databases, and scalable application architecture.
+- 🗄️ Deepening knowledge of **DBMS, SQL, and database design**.
+- 🐳 Working with **Docker, Linux, Git, and deployment workflows**.
+- 🏗️ Learning **System Design** and understanding how scalable software systems are designed.
+- ☁️ Building practical understanding of **Cloud and DevOps fundamentals**.
+- 🔐 Exploring **Web Security and Cybersecurity** through hands-on learning.
+
+## 🛠️ Engineering Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+</p>
+
+### 🔄 Real-Time
+- Socket.IO
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🐳 DevOps, Deployment & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,render" />
+</p>
+
+### 🧠 Computer Science & Engineering
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS & SQL
+- Computer Networks
+- System Design Fundamentals
+- Web Security & Cybersecurity
+
+
 
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
