@@ -27,14 +27,14 @@
 ## 👨‍💻 About Me
 
 - 🚀 Full Stack Developer focused on building real-world, scalable web applications.
-- 💻 Strong interest in **DSA, problem solving, backend engineering, and software development**.
+- 💻 Strong interest in **backend engineering, software development, and problem solving**.
 - 🌐 Building applications across **Frontend, Backend, REST APIs, Databases, and Deployment**.
 - 🧠 Strengthening **Computer Science fundamentals** including DBMS, Operating Systems, Computer Networks, and OOP.
-- ⚙️ Exploring **System Design, Docker, Linux, Cloud, and DevOps fundamentals**.
+- ⚙️ Working with **Docker, Linux, Cloud, and DevOps fundamentals**.
 - 🔐 Exploring **Web Security and Cybersecurity** alongside software engineering.
 - 📈 Consistently improving through **DSA practice, projects, and hands-on engineering**.
-- 🎯 Currently focused on becoming a **strong Software Engineer ready for real-world and MNC-level engineering challenges**.
-  
+- 🎯 Focused on becoming a **strong Software Engineer ready for real-world and MNC-level engineering challenges**.
+
 ---
 
 ## 🎯 Current Engineering Focus
@@ -44,9 +44,11 @@
 - ⚙️ Developing stronger **Backend Engineering** skills with REST APIs, authentication, databases, and scalable application architecture.
 - 🗄️ Deepening knowledge of **DBMS, SQL, and database design**.
 - 🐳 Working with **Docker, Linux, Git, and deployment workflows**.
-- 🏗️ Learning **System Design** and understanding how scalable software systems are designed.
+- 🏗️ Learning **System Design & Scalable Software Architecture**.
 - ☁️ Building practical understanding of **Cloud and DevOps fundamentals**.
 - 🔐 Exploring **Web Security and Cybersecurity** through hands-on learning.
+
+---
 
 ## 🛠️ Engineering Tech Stack
 
@@ -85,9 +87,9 @@
 - Object-Oriented Programming
 - DBMS & SQL
 - Computer Networks
-- System Design Fundamentals
 - Web Security & Cybersecurity
 
+---
 
 ## 🚀 Featured Projects
 
@@ -106,10 +108,11 @@
 
 [🔗 GitHub Repository](https://github.com/mdshahjadms0786-sys/habitflow) · [🌐 Live Demo](https://habit-tracker-phi-ruddy.vercel.app/)
 
+---
 
 ### 💬 ChatSphere — Real-Time Chat Application
 
-> WhatsApp-style real-time messaging platform with modern communication, authentication, and media features.
+> Real-time messaging platform with modern communication, authentication, and media features.
 
 **Highlights**
 - 💬 Built real-time **1:1 and group messaging** with Socket.IO.
@@ -122,6 +125,7 @@
 
 [🔗 GitHub Repository](https://github.com/mdshahjadms0786-sys/ChatSphere) · [🌐 Live Demo](https://chat-sphere-woad.vercel.app/)
 
+---
 
 ### 🏠 Wanderlust — Airbnb Clone
 
@@ -150,9 +154,11 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Md-Shahjad/">
-    <img src="https://img.shields.io/badge/LeetCode-Md--Shahjad-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+---
 
 ## 📚 Computer Science Fundamentals
 
@@ -161,10 +167,7 @@
 - 💻 **Operating Systems** — Processes, threads, memory management, scheduling, synchronization, and core OS concepts.
 - 🌐 **Computer Networks** — Networking fundamentals, HTTP/HTTPS, TCP/IP, DNS, client-server architecture, and web communication.
 
-
-### 🏗️ Upcoming Learning
-
-- **System Design & Scalable Software Architecture**
+---
 
 ## 🏆 Certifications & Achievements
 
@@ -182,6 +185,7 @@
 - 💻 Consistent **DSA & problem-solving practice** on LeetCode.
 - 🚀 Built and deployed multiple **full-stack applications** involving authentication, APIs, databases, real-time communication, payments, and AI integration.
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -201,6 +205,8 @@
   <img src="https://komarev.com/ghpvc/?username=mdshahjadms0786-sys&color=6366F1&style=flat" alt="profile views"/>
 </p>
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -215,3 +221,8 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <b>Building. Learning. Improving. Every day. 🚀</b>
+</p>
